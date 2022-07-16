@@ -1,0 +1,77 @@
+{
+	"name": "CelestialDraculaTheme",
+	"displayName": "CelestialDracula",
+	"description": "Uma junção do tema Celestial com o tema Dracula",
+	"publisher": "Uallesson + Vrecusko",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"icon": "icon/NW.png",
+	"author": {
+		"name": "Uallesson Nunes Ivo",
+		"url": "https://github.com/Uallessonivo"
+	},
+	"categories": [
+		"Themes"
+	],
+	"repository": {
+		"url": "https://github.com/Uallessonivo/CelestialDracula",
+		"type": "git"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Celestial + Dracula",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Celestial + Dracula-color-theme.json"
+			},
+			{
+				"label": "monochrome - Vrecusko",
+				"uiTheme": "vs-dark",
+				"path": "./themes/GrayScale-Vrecusko.json"
+			},
+			{
+				"label": "LAMENTIS - REYNEP",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS_Alpha.json"
+			},
+			{
+				"label": "LAMENTIS V2",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS_V2.json"
+			},
+			{
+				"label": "LAMENTIS V3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS_V3.json"
+			},
+			{
+				"label": "LAMENTIS V3 Apple P3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS_V3_AppleP3.json"
+			},
+			{
+				"label": "LAMENTIS V4 Apple P3",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS_V4_AppleP3.json"
+			},
+			{
+				"label": "LAMENTIS",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS.json"
+			},
+			{
+				"label": "LAMENTIS V4 Apple P3 SWAP",
+				"uiTheme": "vs-dark",
+				"path": "./themes/LAMENTIS_V4_AppleP3_ItalicBoldSWAP.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "194f88ff-122b-4052-92ff-6c6baf0af4b2",
+		"publisherId": "08787ab4-045c-4ded-93fb-cddc772d3622",
+		"publisherDisplayName": "Uallesson + Vrecusko",
+		"installedTimestamp": 1624732958351
+	}
+}
